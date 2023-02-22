@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: react-native-digital-bank-app
+  name: react-native-app
   annotations:
     github.com/project-slug: nmoisesp/react-native-digital-bank-app
     circleci.com/project-slug: github/nmoisesp/react-native-digital-bank-app
